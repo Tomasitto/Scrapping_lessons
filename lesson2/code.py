@@ -120,10 +120,10 @@ for name, href in all_categories.items():
 
             product_info.append(info_dict)
 
+        with open(f'C:\\Dev\\parcing\\lesson2\\json_files\\{count}_{name}.json', 'w', encoding='utf-8') as file3:
+            json.dump(product_info, file3, indent=4, ensure_ascii=False)
             
-
+        product_info = []
         count+=1
         print(f'Идет парсинг инфы, сделано {count} из {length}')
 
-with open('C:\\Dev\\parcing\\lesson2\\product_info.json', 'w', encoding='utf-8') as file3:
-    json.dump(product_info, file3, indent=4, ensure_ascii=False)
