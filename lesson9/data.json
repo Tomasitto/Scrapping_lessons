@@ -1,0 +1,546 @@
+[
+    {
+        "categories": "game_mouse",
+        "name": "Проводная игровая мышь Vampire RGB",
+        "article": " 80563851",
+        "description": {
+            "brand": " Defender",
+            "model": " Vampire RGB",
+            "type": " Мышь проводная",
+            "game": " Да",
+            "light": " есть",
+            "size": " 135.5x68x27 мм",
+            "sensetive": " 10000",
+            "link": " www.defender.ru"
+        },
+        "stock": " 140",
+        "price": "1610 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Defender Halo Z GM-430L",
+        "article": " 80244227",
+        "description": {
+            "brand": " Defender",
+            "model": " Halo Z GM-430L",
+            "type": " Мышь проводная",
+            "game": " Да",
+            "light": " н/д",
+            "size": " 12.5 x 4.0 x 6.2 см",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 87",
+        "price": "550 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь беспроводная Defender Shark 2 чёрный USB",
+        "article": " 80530370",
+        "description": {
+            "brand": " Defender",
+            "model": " Shark 2",
+            "type": " USB + радиоканал",
+            "game": " Да",
+            "light": " н/д",
+            "size": " 12.5 x 4.0 x 6.2 см",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 65",
+        "price": "1480 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Defender sTarx GM-390L чёрный USB",
+        "article": " 80244229",
+        "description": {
+            "brand": " Defender",
+            "model": " sTarx GM-390L",
+            "type": " USB",
+            "game": " Да",
+            "light": " RGB",
+            "size": " 12.3 x 4.1 x 8.0 см",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 55",
+        "price": "730 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Defender Skull GM-180L чёрный USB",
+        "article": " 80039351",
+        "description": {
+            "brand": " Defender",
+            "model": " Skull GM-180L",
+            "type": " USB",
+            "game": " Да",
+            "light": " Нет",
+            "size": " -",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 55",
+        "price": "485 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Defender Killer GM-170L чёрный USB 52170",
+        "article": " 80039353",
+        "description": {
+            "brand": " Defender",
+            "model": " Killer GM-170L",
+            "type": " USB",
+            "game": " Да",
+            "light": " переливающаяся",
+            "size": " -",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 15",
+        "price": "550 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Defender Ghost GM-190L чёрный USB 52190",
+        "article": " 80039354",
+        "description": {
+            "brand": " Defender",
+            "model": " Ghost GM-190L",
+            "type": " USB",
+            "game": " Да",
+            "light": " переливающаяся",
+            "size": " -",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 25",
+        "price": "600 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Defender Witcher GM-990 чёрный USB",
+        "article": " 80369131",
+        "description": {
+            "brand": " Defender",
+            "model": " Witcher GM-990",
+            "type": " USB",
+            "game": " Да",
+            "light": " есть",
+            "size": " -",
+            "sensetive": " 3200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 25",
+        "price": "730 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+        "article": " 80553232",
+        "description": {
+            "brand": " Logitech",
+            "model": " G305 LIGHTSPEED Wireless Gaming Mouse - LILAC",
+            "type": " USB + радиоканал",
+            "game": " Да",
+            "light": " нет",
+            "size": " 62.15x38.20x116.60 мм",
+            "sensetive": " 12000",
+            "link": " www.logitech.com"
+        },
+        "stock": " 25",
+        "price": "8920 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Logitech G102 LIGHTSYNC Gaming LILAC",
+        "article": " 80554448",
+        "description": {
+            "brand": " Logitech",
+            "model": " G102 LIGHTSYNC Gaming LILAC",
+            "type": " USB, Оптическая светодиодная",
+            "game": " Да",
+            "light": " нет",
+            "size": " -",
+            "sensetive": " 8000",
+            "link": " www.logitech.com"
+        },
+        "stock": " 25",
+        "price": "4350 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь Logitech G PRO HERO Black USB проводная",
+        "article": " 80247044",
+        "description": {
+            "brand": " Logitech",
+            "model": " G PRO HERO",
+            "type": " USB",
+            "game": " Да",
+            "light": " есть",
+            "size": " 62x38x117 мм",
+            "sensetive": " 16000",
+            "link": " www.logitech.com"
+        },
+        "stock": " 55",
+        "price": "5100 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Logitech G402 Hyperion Fury",
+        "article": " 8675403",
+        "description": {
+            "brand": " Logitech",
+            "model": " G PRO HERO",
+            "type": " USB",
+            "game": " Да",
+            "light": " есть",
+            "size": " 136x72x41 мм",
+            "sensetive": " 4000",
+            "link": " www.logitech.com"
+        },
+        "stock": " 27",
+        "price": "4400 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь беспроводная STM 109CW чёрный USB",
+        "article": " 86275403",
+        "description": {
+            "brand": " STM",
+            "model": " 109CW",
+            "type": " USB радиоканал",
+            "game": " Нет ",
+            "light": " есть",
+            "size": " 122х69х39 мм",
+            "sensetive": " 1000",
+            "link": " www.stm-electronics.ru"
+        },
+        "stock": " 127",
+        "price": "455 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Defender MB-986 чёрный USB",
+        "article": " 80603934",
+        "description": {
+            "brand": " Defender",
+            "model": " MB-986",
+            "type": " USB",
+            "game": " Нет ",
+            "light": " есть",
+            "size": " - ",
+            "sensetive": " 1600",
+            "link": " www.defender.ru"
+        },
+        "stock": " 550",
+        "price": "270 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Gembird MG-520 чёрный USB",
+        "article": " 80216417",
+        "description": {
+            "brand": " Gembird",
+            "model": " MG-520",
+            "type": " USB",
+            "game": " Нет ",
+            "light": " Нет",
+            "size": " 123 х 69 х 41 мм ",
+            "sensetive": " 3200",
+            "link": " www.gembird.ruф"
+        },
+        "stock": " 150",
+        "price": "720 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная CBR CM 846 Armor чёрный USB",
+        "article": " 80606384",
+        "description": {
+            "brand": " CBR",
+            "model": " CM 846 Armor",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 123 х 69 х 41 мм ",
+            "sensetive": " 4800",
+            "link": " www.cbr-products.ru"
+        },
+        "stock": " 99",
+        "price": "790 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Гарнизон GM-720G чёрный USB",
+        "article": " 80166285",
+        "description": {
+            "brand": " CBR",
+            "model": " GM-720G",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 126 x 85 x 38 мм ",
+            "sensetive": " 2400",
+            "link": " www.garnizon.su"
+        },
+        "stock": " 81",
+        "price": "600 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Гарнизон GM-700G чёрный USB",
+        "article": " 80148902",
+        "description": {
+            "brand": " Гарнизон",
+            "model": " GM-700G",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 113 x 62 x 39 мм ",
+            "sensetive": " 1600",
+            "link": " www.garnizon.su"
+        },
+        "stock": " 21",
+        "price": "425 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Гарнизон GM-760G чёрный USB",
+        "article": " 80148901",
+        "description": {
+            "brand": " Гарнизон",
+            "model": " GM-760G",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 135 x 72 x 38 мм ",
+            "sensetive": " 2000",
+            "link": " www.garnizon.su"
+        },
+        "stock": " 61",
+        "price": "610 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Гарнизон GM-730G чёрный USB",
+        "article": " 80148484",
+        "description": {
+            "brand": " Гарнизон",
+            "model": " GM-730G",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 135 x 71 x 37 мм ",
+            "sensetive": " 2400",
+            "link": " www.garnizon.su"
+        },
+        "stock": " 41",
+        "price": "580 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная Гарнизон GM-620G чёрный USB",
+        "article": " 80148483",
+        "description": {
+            "brand": " Гарнизон",
+            "model": " GM-620G",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 117x 77 x 32 мм ",
+            "sensetive": " 1600",
+            "link": " www.garnizon.su"
+        },
+        "stock": " 121",
+        "price": "385 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Мышь проводная A4TECH Bloody Q51 чёрный USB",
+        "article": " 80090478",
+        "description": {
+            "brand": " A4TECH",
+            "model": " Bloody Q51",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 126x73x40 мм ",
+            "sensetive": " 3200",
+            "link": " www.bloody.com"
+        },
+        "stock": " 91",
+        "price": "1320 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "MGK-03U Dialog Gan-Kata - игровая",
+        "article": " 80234480",
+        "description": {
+            "brand": " Dialog",
+            "model": " MGK-03U Gan-Kata",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 123x69x33 мм ",
+            "sensetive": " 1600",
+            "link": " www.dialoginvest.com"
+        },
+        "stock": " 50",
+        "price": "260 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Defender Flash MB-600L",
+        "article": " 80244813",
+        "description": {
+            "brand": " Defender",
+            "model": " Flash MB-600L",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 123x69x33 мм ",
+            "sensetive": " 1200",
+            "link": " www.defender.ru"
+        },
+        "stock": " 160",
+        "price": "245 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Gembird MG-550",
+        "article": " 80244813",
+        "description": {
+            "brand": " Gembird",
+            "model": " MG-550",
+            "type": " USB",
+            "game": " нет ",
+            "light": " нет",
+            "size": " 120 х 65 х 40 мм ",
+            "sensetive": " 3200",
+            "link": " www.gembird.ru"
+        },
+        "stock": " 60",
+        "price": "830 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Lenovo Legion M200 RGB Gaming Mouse",
+        "article": " 80538807",
+        "description": {
+            "brand": " Lenovo",
+            "model": " Legion M200",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 40x71x123 мм ",
+            "sensetive": " 2400",
+            "link": " www.lenovo.com"
+        },
+        "stock": " 36",
+        "price": "1460 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Sven RX-G750 чёрный USB",
+        "article": " 80558868",
+        "description": {
+            "brand": " Sven",
+            "model": " RX-G750",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 130x67x40 мм ",
+            "sensetive": " 6400",
+            "link": " www.sven.fi"
+        },
+        "stock": " 86",
+        "price": "1590 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Wired Gaming Mouse ",
+        "article": " 80529373",
+        "description": {
+            "brand": " Canyon",
+            "model": " -",
+            "type": " USB",
+            "game": " нет ",
+            "light": " нет",
+            "size": " - ",
+            "sensetive": " 3200",
+            "link": " www.canyon.ru"
+        },
+        "stock": " 54",
+        "price": "960 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "MSI Clutch GM08 ",
+        "article": " 80563231",
+        "description": {
+            "brand": " MSI",
+            "model": " Clutch GM08",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 128 х 68.5 х 40.5 мм ",
+            "sensetive": " 4200",
+            "link": " www.msi.com"
+        },
+        "stock": " 94",
+        "price": "1690 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Gembird MG-760 ",
+        "article": " 80564137",
+        "description": {
+            "brand": " Gembird",
+            "model": " MG-760",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 62x38x115 мм ",
+            "sensetive": " 3200",
+            "link": " www.gembird.ru"
+        },
+        "stock": " 57",
+        "price": "640 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "MGK-11U Dialog Gan-Kata ",
+        "article": " 80564156",
+        "description": {
+            "brand": " Dialog",
+            "model": " MGK-11U",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 118х76х38 мм ",
+            "sensetive": " 2400",
+            "link": " www.dialoginvest.com"
+        },
+        "stock": " 27",
+        "price": "435 руб"
+    },
+    {
+        "categories": "game_mouse",
+        "name": "Logitech G102 LIGHTSYNC ",
+        "article": " 80413190",
+        "description": {
+            "brand": " Logitech",
+            "model": " G102 LIGHTSYNC",
+            "type": " USB",
+            "game": " да ",
+            "light": " да",
+            "size": " 118х76х38 мм ",
+            "sensetive": " 8000",
+            "link": " www.logitech.com"
+        },
+        "stock": " 127",
+        "price": "2180 руб"
+    }
+]
